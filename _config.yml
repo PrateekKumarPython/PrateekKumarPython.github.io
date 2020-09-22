@@ -1,2 +1,3 @@
 name: Prateek Kumar, Scientist
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
