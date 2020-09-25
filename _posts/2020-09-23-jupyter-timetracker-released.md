@@ -6,6 +6,9 @@ categories: misc
 
 On September, 23, 2020, I was able to successfully built my 1 year old python code for tracking time into a nice python package which is now hosted on [PyPI](https://pypi.org/project/jupyter-timetracker/) and also on [GitHub](https://github.com/PrateekKumarPython/jupyter-timetracker)
 
+## Watch jupyter-timetracker running
+[![jupyter-timetracker](http://img.youtube.com/vi/Cle38WncY2o/0.jpg)](https://www.youtube.com/watch?v=Cle38WncY2o "jupyter-timetracker")
+
 ## History behind development of  [jupyter-timetracker](https://prateekkumarpython.github.io/jupyter-timetracker/)
 
 I had always obsessed about saving each and every second of my time in my life. More than just saving, I was more concerned about being able to look at where my time is going throughout the day. The led me to install so many time management app on my mobile, after a lot of trial and error, I found [atimelogger](http://www.atimelogger.com/) the best. It has all the capability what I was looking for. However, later it started to provide only basic features in free version and asking to pay to upgrade to have full features. Also, it has no desktop app. I found helpless in situations, where I am on desktop and away from my mobile. 
